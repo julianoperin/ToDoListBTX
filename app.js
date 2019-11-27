@@ -58,7 +58,6 @@ function removeTask(e) {
     }
   }
 }
-
 // Clear Tasks
 function clearTasks() {
   // taskList.innerHTML = '';

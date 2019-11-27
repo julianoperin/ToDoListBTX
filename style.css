@@ -1,0 +1,20 @@
+.container {
+    border: 2px black solid;
+    border-radius: 15px;
+}
+
+.btn {
+    background: red;
+    border-radius: 15px;
+}
+
+.black {
+    border-radius: 15px;
+    background: yellow  !important;
+    color: black;
+}
+
+.black:hover {
+    background:blue !important;
+    color: white;
+}
