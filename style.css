@@ -1,5 +1,5 @@
 .container {
-    border: 2px black solid;
+    border: 5px #80ced6 solid;
     border-radius: 15px;
 }
 
@@ -7,14 +7,23 @@
     background: red;
     border-radius: 15px;
 }
+.btn:hover {
+    background:#80ced6 !important;
+    color: white;
+}
 
 .black {
     border-radius: 15px;
-    background: yellow  !important;
-    color: black;
+    background: red  !important;
+    color: white;
+    
 }
 
 .black:hover {
-    background:blue !important;
+    background:#80ced6 !important;
     color: white;
+}
+
+.fa-remove {
+    color: red  !important;;
 }
